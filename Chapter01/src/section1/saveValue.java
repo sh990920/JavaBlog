@@ -9,6 +9,7 @@ public class saveValue {
 		
 		// 변수를 생성함과 동시에 초기화를 한번에 진행
 		int num = 90;
+		// 깃 꼬였다 망했네
 
 	}
 
